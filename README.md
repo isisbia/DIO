@@ -1,8 +1,8 @@
 # 🎓 Meus Cursos & Formações - DIO.me
 
-![Quantidade de Arquivos](https://img.shields.io/github/directory-file-count/isisbia/dio-cursos?style=for-the-badge&color=orange)
-![Tamanho do Repositório](https://img.shields.io/github/repo-size/isisbia/dio-cursos?style=for-the-badge&color=blue)
-![Último Commit](https://img.shields.io/github/last-commit/isisbia/dio-cursos?style=for-the-badge&color=green)
+![Quantidade de Arquivos](https://img.shields.io/github/directory-file-count/isisbia/DIO?style=for-the-badge&color=orange)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/isisbia/DIO?style=for-the-badge&color=blue)
+![Último Commit](https://img.shields.io/github/last-commit/isisbia/DIO?style=for-the-badge&color=green)
 
 ---
 
@@ -19,9 +19,9 @@ O objetivo principal é manter um histórico estruturado da minha evolução té
 A estrutura de pastas foi planejada para separar os conteúdos por **formações, módulos ou trilhas de aprendizado**.
 
 ```text
-dio-cursos/
+DIO/
 │
-├── 📁 primeiros-passos-html/
+├── 📁 html/
 │   ├── index.html
 │   └── README.md
 │
