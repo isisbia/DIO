@@ -22,10 +22,9 @@ A estrutura de pastas foi planejada para separar os conteúdos por **formações
 DIO/
 │
 ├── 📁 html/
-│   ├── index.html
-│   └── README.md
+│   └── index.html 
 │
-└── 📁 futuros-cursos/
+└── README.md
 ```
 
 Cada subpasta possui seu próprio arquivo descritivo contendo detalhes sobre o desafio, projeto ou conteúdo estudado.
