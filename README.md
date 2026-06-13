@@ -1,134 +1,137 @@
 # 🎓 Meus Cursos & Formações - DIO.me
 
-![Quantidade de Arquivos](https://img.shields.io/github/directory-file-count/isisbia/DIO?style=for-the-badge&color=orange)
-![Tamanho do Repositório](https://img.shields.io/github/repo-size/isisbia/DIO?style=for-the-badge&color=blue)
+![Arquivos](https://img.shields.io/github/directory-file-count/isisbia/DIO?style=for-the-badge&color=orange)
+![Tamanho](https://img.shields.io/github/repo-size/isisbia/DIO?style=for-the-badge&color=blue)
 ![Último Commit](https://img.shields.io/github/last-commit/isisbia/DIO?style=for-the-badge&color=green)
 
 ---
 
 ## 📌 Sobre o Repositório
 
-Este repositório centraliza todos os meus **códigos, desafios de projeto, exercícios e anotações** desenvolvidos durante as formações e cursos da **DIO.me**.
+Este repositório reúne meus **códigos, exercícios, desafios e anotações** desenvolvidos durante as formações da **DIO.me**.
 
-O objetivo principal é manter um histórico estruturado da minha evolução técnica em **desenvolvimento de software**, facilitando a consulta rápida e a demonstração prática das tecnologias que domino e continuo aprimorando.
+O objetivo é documentar minha evolução em desenvolvimento de software, criando um histórico organizado de aprendizado e prática.
 
 ---
 
-## 📂 Organização do Repositório
+## 📂 Estrutura do Repositório
 
-A estrutura de pastas foi planejada para separar os conteúdos por **formações, módulos ou trilhas de aprendizado**.
-
-```text
+```
 DIO/
+├── Html-Modulo1/
+│   └── Fundamentos de HTML
 │
-├── 📁 html/
-│   └── index.html 
-│
-└── README.md
+├── Html-Modulo2/
+│   └── HTML5 + CSS3 (intermediário)
 ```
 
-Cada subpasta possui seu próprio arquivo descritivo contendo detalhes sobre o desafio, projeto ou conteúdo estudado.
+🔗 Repositório principal:  
+[https://github.com/isisbia/DIO](https://github.com/isisbia/DIO)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas Utilizadas
+## 🌐 Projetos em Destaque
 
-Durante os cursos, utilizo um ecossistema focado em **desenvolvimento moderno e escalável**, incluindo:
+### 📘 HTML - Módulo 1 (Fundamentos)
 
-- HTML5
-- CSS3
-- JavaScript
-- C#
-- .NET
-- React
-- TypeScript
-- Git
-- GitHub
-- MySQL
-- VS Code
+Projeto inicial com:
+
+- Estrutura básica de HTML
+- Tags semânticas
+- Links, imagens e listas
+- Introdução à web
+
+🔗 Acesse o projeto:  
+[Html-Modulo1](https://github.com/isisbia/DIO/tree/main/Html-Modulo1)
 
 ---
 
-## 🔍 Destaque: Primeiros Passos com HTML
+### 📗 HTML - Módulo 2 (HTML5 + CSS3)
 
-Na pasta **`primeiros-passos-html`**, você encontrará uma estrutura completa de uma página web construída do zero, abordando:
+Projeto com evolução em front-end:
 
-### 🌐 História da Computação & Web
+- HTML5 semântico
+- CSS3 e estilização
+- Organização de layout
+- Melhoria visual
 
-- Evolução dos computadores desde o **ENIAC**
-- Surgimento da **ARPANET**
-- Contribuições de pioneiros como:
-  - **Ada Lovelace**
-  - **Alan Turing**
-  - **Tim Berners-Lee**
+🔗 Acesse o projeto:  
+[Html-Modulo2](https://github.com/isisbia/DIO/tree/main/Html-Modulo2)
 
-### 🖥️ Arquitetura Client-Side vs Server-Side
+---
 
-Entendimento do funcionamento entre:
+## 🛠️ Tecnologias Utilizadas
 
-#### Client-side
-O navegador interpreta tecnologias como:
+- HTML5  
+- CSS3  
+- JavaScript  
+- C#  
+- .NET  
+- React  
+- TypeScript  
+- Git  
+- GitHub  
+- MySQL  
+- VS Code  
 
-- HTML
-- CSS
-- JavaScript
+---
 
-#### Server-side
-Servidores responsáveis pelo processamento de:
+## 🧠 Conceitos Estudados
 
-- Regras de negócio
-- Banco de dados
-- Autenticação
-- APIs
+### 🌐 História da Web
+- ENIAC  
+- ARPANET  
+- Tim Berners-Lee  
 
-Também abordando tipos de hospedagem:
+### 🖥️ Client-side vs Server-side
 
-- Compartilhada
-- VPS
-- Dedicada
+Client-side: HTML, CSS e JavaScript executados no navegador.
 
-### 🏗️ Estrutura Semântica do HTML
+Server-side: processamento no servidor (APIs, banco de dados, autenticação).
 
-Aplicação prática de:
+---
 
-- Diferença entre **linguagens de programação** e **linguagens de marcação**
-- Estrutura semântica de páginas HTML
-- Uso correto de listas ordenadas e não ordenadas:
+### 🏗️ HTML Semântico
+
+- Estrutura correta de páginas web  
+- Organização de conteúdo  
+- Boas práticas de desenvolvimento  
 
 ```html
-<ol></ol> <!-- Lista Ordenada -->
-<ul></ul> <!-- Lista Não Ordenada -->
+<ol></ol> <!-- Lista ordenada -->
+<ul></ul> <!-- Lista não ordenada -->
 ```
 
 ---
 
-## 📈 Objetivo do Repositório
+## 🎯 Objetivos
 
-Este projeto tem como finalidade:
-
-- ✅ Documentar minha evolução técnica
-- ✅ Consolidar conhecimento prático
-- ✅ Criar um portfólio técnico organizado
-- ✅ Compartilhar estudos e desafios desenvolvidos
+- Documentar minha evolução técnica  
+- Praticar desenvolvimento web  
+- Construir portfólio organizado  
+- Consolidar conhecimentos adquiridos  
 
 ---
 
 ## 👩‍💻 Sobre Mim
 
-Me chamo **Isis Beatriz** e sou apaixonada por **tecnologia, desenvolvimento de software e construção de soluções modernas**.
+Me chamo **Isis Beatriz** e sou apaixonada por tecnologia e desenvolvimento de software.
 
-Estou constantemente buscando evoluir minhas habilidades através de **estudos, projetos práticos e novos desafios**.
+Busco evoluir constantemente através de estudos, prática e projetos reais.
 
 ---
 
 ## 📬 Contato
 
-### LinkedIn
-🔗 https://www.linkedin.com/in/isisbeatrizbonfim/
-
-### GitHub
-🔗 https://github.com/isisbia
+- 🔗 LinkedIn: https://www.linkedin.com/in/isisbeatrizbonfim/
+- 🔗 GitHub: https://github.com/isisbia
 
 ---
 
-⭐ **Se este repositório te ajudou ou achou interessante, considere deixar uma estrela!**
+## 🙏 Agradecimento
+
+Obrigado por visitar este repositório!
+
+Este projeto representa minha jornada de aprendizado e evolução na tecnologia.
+
+⭐ Se gostou, considere deixar uma estrela!
