@@ -23,6 +23,9 @@ DIO/
 │
 ├── Html-Modulo2/
 │   └── HTML5 + CSS3 (intermediário)
+│
+├── Html-Modulo3/
+│   └── Recriando Wikipédia (Semântica, Acessibilidade e Grid)
 ```
 
 🔗 Repositório principal:  
@@ -57,6 +60,19 @@ Projeto com evolução em front-end:
 
 🔗 Acesse o projeto:  
 [Html-Modulo2](https://github.com/isisbia/DIO/tree/main/Html-Modulo2)
+
+---
+
+### 📙 HTML - Módulo 3 (Recriando Wikipédia)
+
+Desafio focado em estruturação avançada, semântica e acessibilidade:
+- Eliminação da "divite" usando elementos estruturais corretos (`<main>`, `<article>`, `<nav>`, `<aside>`).
+- Implementação de barra de pesquisa integrada ao cabeçalho usando Flexbox.
+- Construção de tabelas de dados complexas e listas de referências organizadas em múltiplas colunas no CSS (`column-count`).
+- Integração de mídias de áudio/vídeo e tratamento de acessibilidade visual e para leitores de tela (NVDA).
+
+🔗 Acesse o projeto:  
+[Html-Modulo3](https://github.com/isisbia/DIO/tree/main/Html-Modulo3)
 
 ---
 
